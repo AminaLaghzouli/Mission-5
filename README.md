@@ -1,4 +1,4 @@
-# "Best Market" la satisfaction Client
-Dans ce projet, "Best Market" a besoin de déployer une stratégie qui permet aux clients d’obtenir la meilleure expérience 
-possible, afin qu’il ait envie de revenir dans leurs magasins, à partir des différentes sources des retours clients.
-Donc mon rôle dans ce projet, c'est réaliser des analyses des données pour comprendre comment l'expérience client doit être améliorée.
+"Best Market" Customer Satisfaction
+In this project, "Best Market" needs to implement a strategy that allows customers to have the best possible experience,
+so they will want to return to their stores, based on various sources of customer feedback.
+Therefore, my role in this project is to conduct data analyses to understand how the customer experience can be enhanced."
